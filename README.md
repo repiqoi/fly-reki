@@ -42,4 +42,4 @@
 | `TARGET_PORT` | `443` |
 
 - سپس روی **Deploy** کلیک کنید.
-- آدرس لینک دریافتی رو در قسمت **Overview** قرار بدید و به عنوان **sni-host-address** در کانفیگ xhttp سرور استفاده کنید..
+- آدرس لینک دریافتی روexample.dockfly.app در قسمت **Overview** قرار بدید و به عنوان **sni-host-address** در کانفیگ xhttp سرور استفاده کنید..
